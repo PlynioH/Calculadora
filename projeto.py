@@ -36,6 +36,6 @@ while info == 1:
             poten = poten * num1
         print(f'O valor do Número {num1} elevado ao número {num2} resulta em {poten}')
 
-    info = int(input('Deseja fazer outra operação ?\nSe sim digite 1\nSe não digite qualquer outra opção\n'))
+    info = int(input('Deseja fazer outra operação ?\nSe sim digite 1\nSe não digite qualquer outro Número\n'))
 
 print('Calculadora Encerrada!!!!')
